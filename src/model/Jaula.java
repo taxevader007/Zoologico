@@ -1,9 +1,10 @@
 package model;
 
-@NoArgsConstructor
-@allargsConstructor
-@gettersetter
-@tostring
+@Getter 
+@Setter 
+@NoArgsConstructor 
+@ToString
+@AllArgsConstructor
 
 public class Jaula {
     String norte = "Norte";
