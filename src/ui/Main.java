@@ -42,7 +42,7 @@ public class Main {
                 System.out.println("bye");
                 break;
             case 1:
-                
+                controller.testmk();
                 break;
             case 2:
 
