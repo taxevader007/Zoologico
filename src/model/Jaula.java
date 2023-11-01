@@ -1,5 +1,10 @@
 package model;
 
+@NoArgsConstructor
+@allargsConstructor
+@gettersetter
+@tostring
+
 public class Jaula {
     String norte = "Norte";
     String sur = "Sur";
@@ -13,9 +18,10 @@ public class Jaula {
     String tamano;
 
 
+
     public Jaula() {
         Jaula jaula = new Jaula();
-        
+
          
 
     }
